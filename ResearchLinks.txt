@@ -1,0 +1,22 @@
+Research Links
+
+// BEiT: BERT Pre-Training of Image Transformers 2021
+https://arxiv.org/pdf/2106.08254.pdf 
+
+// Image as a Foreign Language: BEiT Pretraining for All Vision and Vision-Language Tasks 2022
+https://arxiv.org/abs/2208.10442v2   
+
+// A Robust License Plate Recognition Model Based on Bi-LSTM // 2020
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9268976 
+ 
+// Snider // 2019
+https://arxiv.org/pdf/1910.03876v1.pdf
+
+// Vehicle License Plate Recognition Based on Extremal Regions and Restricted Boltzmann Machines 2015
+https://www.researchgate.net/publication/284196359_Vehicle_License_Plate_Recognition_Based_on_Extremal_Regions_and_Restricted_Boltzmann_Machines
+
+// Segmentation- and Annotation-Free License Plate Recognition With Deep Localization and Failure Identification // 2017
+https://ieeexplore.ieee.org.remotexs.ntu.edu.sg/document/7819489
+
+// Yolo + Paddle
+https://learnopencv.com/automatic-license-plate-recognition-using-deep-learning/

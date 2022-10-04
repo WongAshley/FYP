@@ -1,0 +1,2 @@
+https://paperswithcode.com/dataset/aolp
+https://public.roboflow.com/object-detection/license-plates-us-eu/3
